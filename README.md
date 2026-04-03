@@ -2,6 +2,7 @@
 
 Project Overview
 This project focuses on analyzing sales data of Vrinda Store using Microsoft Excel. The objective was to clean the raw dataset, analyze sales performance, and create an interactive dashboard to derive meaningful business insights.
+<img width="1757" height="714" alt="Data Analysis of Sales" src="https://github.com/user-attachments/assets/9c0567c4-1e8e-4e6c-b3db-91430084e468" />
 
  🛠️ Tools Used
 - Microsoft Excel
